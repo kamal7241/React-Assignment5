@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "name": "kamal",
+      "age": "30",
+      "phone": "01125312153",
+      "id": 1
+    },
+    {
+      "name": "kamal_k",
+      "age": "30",
+      "phone": "01125312153",
+      "id": 2
+    },
+    {
+      "name": "kamal_n",
+      "age": "30",
+      "phone": "01125312153",
+      "id": 3
+    },
+    {
+      "name": "Mohamed",
+      "age": "35",
+      "phone": "01125312153",
+      "id": 4
+    },
+    {
+      "name": "hussein",
+      "age": "34",
+      "phone": "01125312153",
+      "id": 5
+    },
+    {
+      "name": "abdelrahman",
+      "age": "60",
+      "phone": "01125312153",
+      "id": 6
+    },
+    {
+      "name": "abdelraoof",
+      "age": "60",
+      "phone": "01125312153",
+      "id": 7
+    },
+    {
+      "name": "karim",
+      "age": "60",
+      "phone": "01125312153",
+      "id": 8
+    },
+    {
+      "name": "maiada",
+      "age": "60",
+      "phone": "01125312153",
+      "id": 9
+    }
+  ]
+}
